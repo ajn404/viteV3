@@ -8,6 +8,7 @@ export default defineConfig({
   server:{
     port:3030,
   },
+  base:'/viteV3/',
   resolve: {
     alias: {
       '@/': new URL('./src/', import.meta.url).pathname
