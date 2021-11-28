@@ -1,1 +1,0 @@
-import{u as s,o,c as t,a as r}from"./vendor.d4de65db.js";import{_ as a}from"./index.17f7b9f2.js";const _={setup(){const e=s();console.log("store",e),console.log("getter",e.getters)}},n={class:"about"},c=r("h1",null,"This is a vuex page",-1),d=[c];function l(e,u,i,p,f,v){return o(),t("div",n,d)}var h=a(_,[["render",l]]);export{h as default};
